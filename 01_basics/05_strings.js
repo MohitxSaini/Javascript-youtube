@@ -40,6 +40,8 @@ console.log(url.includes('mohit')); // this tells us if the value is in the vari
 // using split method 
 
 const nickname = "Mohit-Motit-Mowheat"
+console.log(nickname.split("-"));  // this gives us an array ! (removes dash and gives commas)
+
 
 
  
